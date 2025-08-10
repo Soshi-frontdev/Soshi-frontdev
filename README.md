@@ -34,7 +34,7 @@
 
 ### 📫 Contact Me
 - 📧 Email: soshianthajihajat@gmail.com
-- 🌐 GitHub: [github.com/YourGitHubUsername](https://github.com/Soshi-frontdev)
+- 🌐 GitHub: [github.com/Soshi-frontdev](https://github.com/Soshi-frontdev)
 
 ---
 
