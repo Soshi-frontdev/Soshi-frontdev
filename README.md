@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 🖥 Skilled in **HTML**, **CSS**, **Python**
 - 📚 Currently learning **JavaScript** & **German**
-- 🗣 Fluent in **English** (speaking & understanding)
+- 🗣 Fluent in **English** (speaking & understanding) and **Persian**
 - 🎯 Passionate about coding, creating, and learning new things every day
 
 ---
