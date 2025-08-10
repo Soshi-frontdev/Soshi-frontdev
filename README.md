@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 About Me
-- 🖥 Skilled in **HTML**, **CSS**, intermediate-level **Python**
+- 🖥 Skilled in **HTML**, **CSS**, skilled in **Python**
 - 📚 Currently learning **JavaScript** & **German**
 - 🗣 Fluent in **English** (speaking & understanding)
 - 🎯 Passionate about coding, creating, and learning new things every day
