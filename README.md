@@ -33,12 +33,12 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: *(ایمیلت رو اینجا بذار)*
-- 🌐 GitHub: [github.com/YourGitHubUsername](https://github.com/YourGitHubUsername)
+- 📧 Email: soshianthajihajat@gmail.com
+- 🌐 GitHub: [github.com/YourGitHubUsername](https://github.com/Soshi-frontdev)
 
 ---
 
-⭐️ From [Soshi](https://github.com/YourGitHubUsername)
+⭐️ From [Soshi](https://github.com/Soshi-frontdev)
 
 <!--
 **Soshi-frontdev/Soshi-frontdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
